@@ -1,0 +1,19 @@
+@Book{Robins,
+    author =    "Leslie Lamport" ,
+     title =     "\LaTeX: A Document Preparation System" ,
+     publisher = "Addison--Wesley Pub.\ Co." ,
+     year =      "1986" ,
+     address =   "Reading, MA" 
+}
+
+@Book{Eucli,
+  title={MLA handbook for writers of research papers},
+  author={Gibaldi, J. and Modern Language Association of America},
+  isbn={9781603290241},
+  lccn={2008047484},
+  series={Writing guides. Reference},
+  url={http://books.google.es/books?id=icYRAQAAMAAJ},
+  year={2009},
+  publisher={Modern Language Association of America}
+}
+
